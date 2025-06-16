@@ -111,6 +111,7 @@ Weryfikacja możliwości aktualizacji istniejącego filtra.
 
 
 <br>
+
 ### 7. Dodanie komentarza do zadania (POST Add Comment to Issue)
 
 **Opis:**  

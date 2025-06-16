@@ -45,7 +45,7 @@ Sprawdzenie, czy użytkownik może pobrać swój własny accountId przez API Jir
 Weryfikacja możliwości utworzenia nowego projektu w Jira przez API.
 
 **Kroki:**  
-- Wysłanie żądania POST na endpoint `/rest/api/2/project` z wymaganym body (`key`, `name`, `projectTypeKey`, `lead`).
+- Wysłanie żądania POST na endpoint `/rest/api/2/project` z wymaganym body (`key`, `projectTypeKey`, `lead`).
 
 **Oczekiwany rezultat:**  
 - Status odpowiedzi 201 (Created).
